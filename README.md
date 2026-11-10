@@ -17,7 +17,9 @@ I work in operations at CarTrade Tech and I am building my skills in web develop
 Node.js · Express · MongoDB · JavaScript fundamentals
 
 ## 🚀 Projects
-- [KFC Landing Page](https://kfc-landing-page-swart.vercel.app/) – responsive React + Vite page
+-## 🚀 Projects
+- [KFC Landing Page](https://kfc-landing-page-swart.vercel.app/) – responsive landing page built with React and Vite ([code](https://github.com/lakshman-velaga/kfc-landing-page))
+- [Movie Explorer](https://movie-explorer-silk-five.vercel.app) – movie browsing app built with React ([code](https://github.com/lakshman-velaga/movie-explorer))
 
 ## 🐍 My contribution graph
 
