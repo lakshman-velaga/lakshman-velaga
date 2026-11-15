@@ -20,6 +20,7 @@ Node.js · Express · MongoDB · JavaScript fundamentals
 -## 🚀 Projects
 - [KFC Landing Page](https://kfc-landing-page-swart.vercel.app/) – responsive landing page built with React and Vite ([code](https://github.com/lakshman-velaga/kfc-landing-page))
 - [Movie Explorer](https://movie-explorer-silk-five.vercel.app) – movie browsing app built with React ([code](https://github.com/lakshman-velaga/movie-explorer))
+- [Recipe Finder](https://recipe-finder-six-ebon.vercel.app) – recipe search app built with React and Vite using TheMealDB API ([code](https://github.com/lakshman-velaga/recipe-finder))
 
 ## 🐍 My contribution graph
 
